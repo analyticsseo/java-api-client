@@ -6,8 +6,7 @@ Java Reference implementation
 - Import the project folder into your workspace.
 - Set json-simple-1.1.1.jar in your build path:
 
-- For eclipse:
--- Project -> properties -> Libraries -> Add External JARs -> project_dir/APIv2/lib/json-simple-1.1.1.jar
+- For eclipse: Project -> properties -> Libraries -> Add External JARs -> project_dir/APIv2/lib/json-simple-1.1.1.jar
 
 - Set your Api public, private and salt key in Request.java
 - Set your search parameter in the main() function
